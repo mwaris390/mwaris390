@@ -1,6 +1,6 @@
 # Hey, I'm Muhammad Waris 👋
 
-👨‍💻 Junior Web Developer | Junior Dapp Developer | Software Engineer 👨‍🎓
+**👨‍💻** Junior Web Developer | Junior Dapp Developer | Software Engineer **👨‍🎓**
 
 Passionate about coding, exploring new technologies, and turning innovative ideas into reality. I love to learn and adapt quickly to emerging tech trends. Here's a bit about me:
 
