@@ -12,6 +12,7 @@ Passionate about coding, exploring new technologies, and turning innovative idea
 - Blockchain: Ethereum, Solidity, HardHat, Truffle, Foundry, EtherJS, WEB3JS
 - Languages: Javascript, Python, C++, Solidity
 - Version Control: Git
+- Frameworks: Django
 
 ## Recent Projects
 - You can check my [Repository](https://github.com/mwaris390?tab=repositories)
