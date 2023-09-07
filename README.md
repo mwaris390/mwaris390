@@ -19,7 +19,7 @@ Passionate about coding, exploring new technologies, and turning innovative idea
 - You can check my [Repository](https://github.com/mwaris390?tab=repositories)
 
 ## Let's Connect 🌐
-- [Twitter](https://twitter.com/mwaris390)
-- [Gmail](mwaris390@gmail.com)
+- ✖️:[Twitter](https://twitter.com/mwaris390)
+- 📧:mwaris390@gmail.com
 
 Feel free to reach out for collaboration, discussions about tech, or sharing ideas! 🚀
