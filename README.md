@@ -2,7 +2,7 @@
 
 **👨‍💻** Junior Web Developer | Junior Dapp Developer | Software Engineer **👨‍🎓**
 
-##Here's a bit about me:
+## Here's a bit about me:
 Passionate about coding, exploring new technologies, and turning innovative ideas into reality. I love to learn and adapt quickly to emerging tech trends.
 
 ## Skills
