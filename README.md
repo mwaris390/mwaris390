@@ -21,6 +21,6 @@ Passionate about coding, exploring new technologies, and turning innovative idea
 ## Let's Connect 🌐
 - ✖️: [Twitter](https://twitter.com/mwaris390)
 - 📧: mwaris390@gmail.com
-- [linkedin](https://www.linkedin.com/in/mwaris390)
+- [LinkedIn](https://www.linkedin.com/in/mwaris390)
 
 Feel free to reach out for collaboration, discussions about tech, or sharing ideas! 🚀
