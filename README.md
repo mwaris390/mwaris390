@@ -3,7 +3,7 @@
 **👨‍💻** Web & Mobile Developer | Software Engineer **👨‍🎓**
 
 ## Summary
-Dynamic software engineer with over 1.5 years of experience in Angular, Next, React, Ionic, and Express, specializing in the creation of scalable web and mobile applications. Proven track record of leading projects integrating technologies such as Google Maps, Firebase, and SQLite, resulting in significant efficiency improvements. Adept in performance optimization and UI/UX design, committed to enhancing user experience and application functionality.
+Dynamic software engineer with 4+ years of Professional projects experience and 2+ years of Industry experience in Angular, Next, React, Ionic, and Express, specializing in the creation of scalable web and mobile applications. Proven track record of leading projects integrating technologies such as Google Maps, Firebase, and SQLite, resulting in significant efficiency improvements. Adept in performance optimization and UI/UX design, committed to enhancing user experience and application functionality.
 
 ## Skills
 - **Frontend:** Angular, React, Next.js, Ionic, TailwindCSS, ShadCN, CSS3, SASS
