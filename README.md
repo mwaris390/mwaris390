@@ -1,6 +1,6 @@
 # Hey, I'm Muhammad Waris 👋
 
-**👨‍💻** Junior Web & Mobile Developer | Software Engineer **👨‍🎓**
+**👨‍💻** Web & Mobile Developer | Software Engineer **👨‍🎓**
 
 ## Summary
 Dynamic software engineer with over 1.5 years of experience in Angular, Next, React, Ionic, and Express, specializing in the creation of scalable web and mobile applications. Proven track record of leading projects integrating technologies such as Google Maps, Firebase, and SQLite, resulting in significant efficiency improvements. Adept in performance optimization and UI/UX design, committed to enhancing user experience and application functionality.
@@ -32,7 +32,8 @@ Dynamic software engineer with over 1.5 years of experience in Angular, Next, Re
 
 ## Side Projects
 - **ClinicMS** – Built a **clinic management system** using **Next.js 15, React 19, Server Actions, PostgreSQL, TailwindCSS, ShadCN, and TypeScript**. Features **multi-user access, patient registration, appointment scheduling, checkup records, and statistical insights** on patient visits. **Deployed on Vercel**. [Link of repo](https://github.com/mwaris390/clinicms) , [ClinicMS](https://clinicms-puce.vercel.app/auth/login)
-- **CTI Tracker** – Developed a **data entry mobile app** using **Angular 16, Ionic, TypeScript, Material UI, and Google Sheets**. Enables small teams to **manage warehouse inventory, upload data, and track insights via Google Sheets**. This app **reduces manual data entry time by 80%**. **Deployed on iOS and Android**.
+- **CTI Tracker** – Developed a **data entry mobile app** using **Angular 16, Ionic, TypeScript, Material UI, and Google Sheets**. Enables small teams to **manage warehouse inventory, upload data, and track insights via Google Sheets**. This app **reduces manual data entry time by 80%**. **Deployed on iOS and Android**. [Link of repo](https://github.com/mwaris390/cti-app)
+- **MedicAsk AI App** – Developed a **mobile app** built with **React Native** and **Expo**, **OpenRouter AI API**, **Expo Camera**, and allowing users to type medicine related questions and take a picture of the medicine. The LLM model then provides an answer. [Link of repo](https://github.com/mwaris390/medicask)
 - **Trackify** – Created an **expense tracking app** using **React 18, TailwindCSS, Node.js, Express, PostgreSQL, JWT, Docker, and Socket.io**. Features **budget tracking, personalized categories, real-time notifications, email verification, and dashboard insights** on income and expenses. **Deployed on Vercel and Render**. [Link of repo - frontend](https://github.com/mwaris390/expense-frontend) , [Link of repo - backend](https://github.com/mwaris390/expense-backend) , [Trackify](https://expense-frontend-jet.vercel.app/login)
 
 ## Let's Connect 🌐
