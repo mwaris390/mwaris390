@@ -37,6 +37,7 @@ Dynamic software engineer with 4+ years of Professional projects experience and 
 - **Trackify** – Created an **expense tracking app** using **React 18, TailwindCSS, Node.js, Express, PostgreSQL, JWT, Docker, and Socket.io**. Features **budget tracking, personalized categories, real-time notifications, email verification, and dashboard insights** on income and expenses. **Deployed on Vercel and Render**. [Link of repo - frontend](https://github.com/mwaris390/expense-frontend) , [Link of repo - backend](https://github.com/mwaris390/expense-backend) , [Trackify](https://expense-frontend-jet.vercel.app/login)
 
 ## Let's Connect 🌐
+- **Website**: [www.waris.dev](https://waris.dev/)
 - **LinkedIn**: [linkedin.com/in/mwaris390](https://linkedin.com/in/mwaris390)
 - **GitHub**: [github.com/mwaris390](https://github.com/mwaris390)
 - **Twitter/X**: [twitter.com/mwaris390](https://twitter.com/mwaris390)
