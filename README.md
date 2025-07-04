@@ -6,12 +6,12 @@
 Dynamic software engineer with 4+ years of Professional projects experience and 2+ years of Industry experience in Angular, Next, React, Ionic, and Express, specializing in the creation of scalable web and mobile applications. Proven track record of leading projects integrating technologies such as Google Maps, Firebase, and SQLite, resulting in significant efficiency improvements. Adept in performance optimization and UI/UX design, committed to enhancing user experience and application functionality.
 
 ## Skills
-- **Frontend:** Angular, React, Next.js, Ionic, TailwindCSS, ShadCN, CSS3, SASS
-- **Backend:** Node.js, Express.js, TypeScript
-- **Database:** PostgreSQL, MongoDB, Firebase, SQLite
-- **DevOps & Tools:** Docker, AWS (Vercel, Render), Git
-- **Technologies:** Google Maps, Socket.io, JWT
-- **Other:** Leadership, Problem-Solving
+- **Frontend:** HTML, CSS, SASS, Bootstrap, TailwindCSS, React.js, Next.js, Angular.js, Redux toolkit, Zustand, React Query
+- **Backend:** Node.js, Express.js, Prisma, Socket.io
+- **Mobile:** React Native, Expo, IONIC
+- **Database:** PostgreSQL, MySQL, SQLite, MongoDB, Firebase, Supabase, PrismaPostgres, NeonDB
+- **DevOps & Tools:** Docker, GIT, Vercel, Render
+- **Others:** JavaScript, TypeScript, Google APIs, AI integrations
 
 ## Experience
 
