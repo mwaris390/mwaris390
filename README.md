@@ -1,6 +1,6 @@
 # Hey, I'm Muhammad Waris 👋
 
-**👨‍💻** Web & Mobile Developer | Software Engineer **👨‍🎓**
+**👨‍💻** Software Engineer | Full Stack Developer | React | React Native | Next.js | Angular | Ionic | Express.js | Node.js | PostgreSQL | Docker **👨‍🎓**
 
 ## Summary
 With 4+ years of Professional projects experience, including 2+ years of Industry experience in Angular, Next, React, Ionic, and Express, specializing in the creation of scalable web and mobile applications. Proven track record of leading projects integrating technologies such as Google Maps, Firebase, and SQLite, resulting in significant efficiency improvements. Adept in performance optimization and UI/UX design, committed to enhancing user experience and application functionality.
